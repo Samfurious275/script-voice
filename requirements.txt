@@ -1,0 +1,5 @@
+# spanish/english/any-language text -> speech (free Edge neural voices, no key)
+edge-tts>=7.0
+
+# the web page
+gradio>=6.0
